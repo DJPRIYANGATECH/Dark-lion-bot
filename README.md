@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.imgur.com/uZKkws5.jpeg" width="50%" height="50%" alt="Relldev"/>
     <br>
-    <a href="https://github.com/Zivfurr"><img title="Created by" src="https://img.shields.io/badge/Creator-Ziv San-green?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Zivfurr"><img title="Created by" src="https://i.imgur.com/uZKkws5.jpeg"></a>
 </p>
 
 # RECODE BY DARK LION😈
